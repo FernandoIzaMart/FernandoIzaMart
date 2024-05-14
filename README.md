@@ -5,7 +5,7 @@
 
 <br>
 
-¡Hola! Soy Fernando Izazaga, un Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo, con más de 2 años de experiencia.
+Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo, con más de 2 años de experiencia.
 <br>
 <br>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
