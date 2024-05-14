@@ -5,7 +5,10 @@
 
 <br>
 
-¡Hola! Soy Fernando Izazaga, un Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo. Con más de 2 años de experiencia,
+¡Hola! Soy Fernando Izazaga, un Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo,
+<br>
+con más de 2 años de experiencia.
+<br>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 Actualmente estoy trabajando en **mvshub(DISH)**
 - 🌱 Actualmente estoy aprendiendo **JAVA(Spring) Y PHYTON(DJANGO)**
