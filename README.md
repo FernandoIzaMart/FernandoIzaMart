@@ -16,7 +16,7 @@ Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo,
 - 💬 Pregúntame sobre JavaScript, Angular, PHP
 - 📫 Cómo contactarme: [ferizamart97@gmail.com](mailto:ferizamart97@gmail.com)
 - 😄 Hobbies: Cocinar 🍝, Futbol ⚽, Natación 🏊, Café 	☕ y Leer 📖
-- ⚡ Dato curioso: Ex Jugador Profesiona de Futbol🌈
+- ⚡ Dato curioso: Ex Jugador Profesional de Futbol🌈
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
